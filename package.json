@@ -51,7 +51,7 @@
     "@emotion/core": "^10.0.14",
     "@emotion/styled": "^10.0.14",
     "@ensdomains/ui": "^3.0.40",
-    "ethers": "^4.0.32",
+    "ethers": "^5.1.4",
     "lodash": "^4.17.13"
   },
   "repository": {
