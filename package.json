@@ -52,7 +52,7 @@
     "@emotion/styled": "^10.0.14",
     "@ensdomains/ui": "^3.0.40",
     "ethers": "^4.0.32",
-    "lodash": "^4.17.13"
+    "lodash": "^4.17.17"
   },
   "repository": {
     "type": "git",
