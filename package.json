@@ -48,9 +48,9 @@
     "react-dom": "^16.8.6"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.14",
-    "@emotion/styled": "^10.0.14",
-    "@ensdomains/ui": "^3.0.40",
+    "@emotion/core": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "@ensdomains/ui": "^3.3.21",
     "ethers": "^4.0.32",
     "lodash": "^4.17.13"
   },
